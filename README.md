@@ -61,4 +61,4 @@ In my free time, I dedicate myself to deepening my knowledge and learning about 
 
 ### Get in touch
 - LinkedIn: https://www.linkedin.com/in/moises-herrerag/
-- Personal website: https://moises-herrera.github.io/
+- Personal website: https://moises-herrera.netlify.app/
