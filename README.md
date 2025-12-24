@@ -1,5 +1,5 @@
 ### Hi, I'm Moises 👋
-#### I am a student of Software Engineering.
+#### I am a Software Engineer.
 In my free time, I dedicate myself to deepening my knowledge and learning about current computer science topics and their practical implementation.
 
 ## 📌 Skills
